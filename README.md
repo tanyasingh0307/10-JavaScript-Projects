@@ -33,7 +33,7 @@ A collection of beginner-friendly JavaScript projects built using HTML, CSS, and
 https://your-demo-link.com/random-quote-generator
 
 ### Screenshot
-![Random Quote Generator](screenshots/random-quote-generator.png)
+![Random Quote Generator](screenshots/p1.png)
 
 ---
 
@@ -48,7 +48,7 @@ https://your-demo-link.com/random-quote-generator
 https://your-demo-link.com/background-color-changer
 
 ### Screenshot
-![Background Color Changer](screenshots/background-color-changer.png)
+![Background Color Changer](screenshots/p2.png)
 
 ---
 
@@ -63,7 +63,7 @@ https://your-demo-link.com/background-color-changer
 https://your-demo-link.com/love-calculator
 
 ### Screenshot
-![Love Calculator](screenshots/love-calculator.png)
+![Love Calculator](screenshots/p3.png)
 
 ---
 
@@ -78,7 +78,7 @@ https://your-demo-link.com/love-calculator
 https://your-demo-link.com/income-tax-calculator
 
 ### Screenshot
-![Income Tax Calculator](screenshots/income-tax-calculator.png)
+![Income Tax Calculator](screenshots/p4.png)
 
 ---
 
@@ -93,7 +93,7 @@ https://your-demo-link.com/income-tax-calculator
 https://your-demo-link.com/digital-clock
 
 ### Screenshot
-![Digital Clock](screenshots/digital-clock.png)
+![Digital Clock](screenshots/p5.png)
 
 ---
 
@@ -108,7 +108,7 @@ https://your-demo-link.com/digital-clock
 https://your-demo-link.com/countdown-timer
 
 ### Screenshot
-![Countdown Timer](screenshots/countdown-timer.png)
+![Countdown Timer](screenshots/p6.png)
 
 ---
 
@@ -123,7 +123,7 @@ https://your-demo-link.com/countdown-timer
 https://your-demo-link.com/astrology-app
 
 ### Screenshot
-![Astrology App](screenshots/astrology-app.png)
+![Astrology App](screenshots/p7.png)
 
 ---
 
@@ -138,7 +138,7 @@ https://your-demo-link.com/astrology-app
 https://your-demo-link.com/click-counter
 
 ### Screenshot
-![Click Counter](screenshots/click-counter.png)
+![Click Counter](screenshots/p8.png)
 
 ---
 
@@ -154,7 +154,7 @@ https://your-demo-link.com/click-counter
 https://your-demo-link.com/todo-list
 
 ### Screenshot
-![To-Do List](screenshots/todo-list.png)
+![To-Do List](screenshots/p9.png)
 
 ---
 
@@ -169,7 +169,7 @@ https://your-demo-link.com/todo-list
 https://your-demo-link.com/quiz-app
 
 ### Screenshot
-![Quiz App](screenshots/quiz-app.png)
+![Quiz App](screenshots/p10.png)
 
 ---
 
