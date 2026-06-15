@@ -11,4 +11,4 @@ form.addEventListener('submit',(e)=>{
 
     document.querySelector('h2').textContent=`Result:${result}%`;
     form.reset();
-})
+}) 
