@@ -30,7 +30,7 @@ A collection of beginner-friendly JavaScript projects built using HTML, CSS, and
 - JavaScript
 
 ### Live Demo
-https://your-demo-link.com/random-quote-generator
+[https://demo-link.com/random-quote-generator](https://10-java-script-projects.vercel.app/)
 
 ### Screenshot
 ![Random Quote Generator](screenshots/p1.png)
@@ -45,7 +45,7 @@ https://your-demo-link.com/random-quote-generator
 - Displays current color code
 
 ### Live Demo
-https://your-demo-link.com/background-color-changer
+[https://demo-link.com/background-color-changer](https://backgroundcolorchanger-liard.vercel.app/)
 
 ### Screenshot
 ![Background Color Changer](screenshots/p2.png)
@@ -60,7 +60,7 @@ https://your-demo-link.com/background-color-changer
 - Fun animation effects
 
 ### Live Demo
-https://your-demo-link.com/love-calculator
+[https://demo-link.com/love-calculator](https://lovecalculator-kappa.vercel.app/)
 
 ### Screenshot
 ![Love Calculator](screenshots/p3.png)
@@ -75,7 +75,7 @@ https://your-demo-link.com/love-calculator
 - User-friendly interface
 
 ### Live Demo
-https://your-demo-link.com/income-tax-calculator
+[https://demo-link.com/income-tax-calculator](https://incometaxcalculator-three.vercel.app/)
 
 ### Screenshot
 ![Income Tax Calculator](screenshots/p4.png)
@@ -90,7 +90,7 @@ https://your-demo-link.com/income-tax-calculator
 - 12/24-hour format
 
 ### Live Demo
-https://your-demo-link.com/digital-clock
+[https://demo-link.com/digital-clock](https://digitalclock-gamma-ten.vercel.app/)
 
 ### Screenshot
 ![Digital Clock](screenshots/p5.png)
@@ -105,7 +105,7 @@ https://your-demo-link.com/digital-clock
 - Alarm when timer finishes
 
 ### Live Demo
-https://your-demo-link.com/countdown-timer
+[https://demo-link.com/countdown-timer](https://countdowntimer-nine-xi.vercel.app/)
 
 ### Screenshot
 ![Countdown Timer](screenshots/p6.png)
@@ -120,7 +120,7 @@ https://your-demo-link.com/countdown-timer
 - Responsive design
 
 ### Live Demo
-https://your-demo-link.com/astrology-app
+[https://demo-link.com/astrology-app](https://astrologyinsights.vercel.app/)
 
 ### Screenshot
 ![Astrology App](screenshots/p7.png)
@@ -135,7 +135,7 @@ https://your-demo-link.com/astrology-app
 - Track button clicks
 
 ### Live Demo
-https://your-demo-link.com/click-counter
+[https://demo-link.com/click-counter](https://clicker-beta-azure.vercel.app/)
 
 ### Screenshot
 ![Click Counter](screenshots/p8.png)
@@ -151,7 +151,7 @@ https://your-demo-link.com/click-counter
 - Local Storage support
 
 ### Live Demo
-https://your-demo-link.com/todo-list
+[https://demo-link.com/todo-list](https://todolist-bay-seven-71.vercel.app/)
 
 ### Screenshot
 ![To-Do List](screenshots/p9.png)
@@ -166,7 +166,7 @@ https://your-demo-link.com/todo-list
 - Final result screen
 
 ### Live Demo
-https://your-demo-link.com/quiz-app
+[https://demo-link.com/quiz-app](https://quiz-two-phi-39.vercel.app/)
 
 ### Screenshot
 ![Quiz App](screenshots/p10.png)
